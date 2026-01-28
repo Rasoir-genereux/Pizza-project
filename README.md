@@ -1,5 +1,10 @@
-Data anaytics project;
-Tech stack: 
+## Title
+Pizza sales
+
+## Tech stack: 
 Excel: Data source; 
 SQL: KPI queries;
-Power BI: Transformation and Visualisation
+Power BI: Transformation and Vizualisation
+
+## 📄 Author
+Kevin
